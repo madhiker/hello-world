@@ -1,2 +1,2 @@
 # hello-world
-Self-explanatory note.
+Once upon a time I'd jump at the opportunity to write a snippy readme file.
